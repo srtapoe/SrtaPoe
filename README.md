@@ -1,8 +1,5 @@
 ### Olá, sou a Joanice :relieved:
 
-<!--
-**SrtaPoe/SrtaPoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img align="right" width="400" height="400" src="https://i.imgur.com/qfpBa5e.jpg">
  
 # Welcome!:raising_hand:
@@ -20,7 +17,7 @@ Sou aluna de Ciência da Computação há dois anos, porém só me senti de verd
 * Compartilhar o que aprendo no @cod.agirl
 * E mil outros projetos
  
- **Tecnologias que estou aprendendo :computer: ** 
+ ### Tecnologias que estou aprendendo :computer:
  
  <p align="left">
   <code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JS" width="40" height="40"/></code>&nbsp;
