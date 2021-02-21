@@ -8,6 +8,10 @@
  
 Sou aluna de Ciência da Computação há dois anos, porém só me senti de verdade apaixonada por tecnologia e linhas de código na quarentena quando pude silenciar as vozes que diziam para seguir diversos caminhos, mas nunca sem levar em conta minhas ambições. Hoje estudo para ser Dev Backend em Java e Ruby, também estou finalizando o curso de Java da Coder Curso e loucamente fazendo bootcamps na Digital Innovation One. Trabalho como professora de informática, mas quero trabalhar com desenvolvimento de soluções tecnológicas que melhorem a aprendizagem de crianças e adolescentes com transtornos de aprendizagem assim como eu.
 
+### Conheça meu trabalho compartilhando minha jornada dev:
+:computer:[cod.agirl](https://www.instagram.com/cod.agirl/)
+
+
 ### Meus objetivos: :heavy_check_mark:
 
 * conseguir minha vaga como dev jr;
