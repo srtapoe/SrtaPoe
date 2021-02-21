@@ -6,13 +6,13 @@
  
 ### Cai de paraquedas na tecnologia e programação :octocat:
  
-Sou aluna de Ciência da Computação há dois anos, porém só me senti de verdade apaixonada por tecnologia e linhas de código na quarentena quando pude silenciar as vozes que diziam para seguir diversos caminhos, mas nunca sem levar em conta minhas ambições. Hoje estudo para ser Dev Backend em Java e Ruby, também estou finalizando o bootcamp Launchase da Rocketseat. Trabalho como professora de informática, mas quero trabalhar com desenvolvimento de soluções tecnológicas que melhorem a aprendizagem de crianças e adolescentes com transtornos de aprendizagem assim como eu.
+Sou aluna de Ciência da Computação há dois anos, porém só me senti de verdade apaixonada por tecnologia e linhas de código na quarentena quando pude silenciar as vozes que diziam para seguir diversos caminhos, mas nunca sem levar em conta minhas ambições. Hoje estudo para ser Dev Backend em Java e Ruby, também estou finalizando o curso de Java da Coder Curso e loucamente fazendo bootcamps na Digital Innovation One. Trabalho como professora de informática, mas quero trabalhar com desenvolvimento de soluções tecnológicas que melhorem a aprendizagem de crianças e adolescentes com transtornos de aprendizagem assim como eu.
 
 ### Meus objetivos: :heavy_check_mark:
 
-* Ser independente em construir pequenos projetos em Java e Ruby até dezembro de 2020
-* Finalizar o Launchbase até o final desse ano
-* Trabalhar como desenvolvedora em muito breve
+* conseguir minha vaga como dev jr;
+* entrar no mestrado de educação em 2022;
+* ser vacinada até o final de 2021;
 * Aprender muito mais
 * Compartilhar o que aprendo no @cod.agirl
 * E mil outros projetos
