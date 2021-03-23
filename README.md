@@ -1,6 +1,6 @@
 ### Olá, sou a Joanice :relieved:
 
-<img align="right" width="400" height="400" src="https://i.imgur.com/nv2SGfx.jpg">
+<img align="right" width="400" height="400" src="https://i.imgur.com/YtccgFk.png">
  
 # Welcome!:raising_hand:
  
