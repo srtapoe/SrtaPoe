@@ -1,7 +1,21 @@
 ## Ciao a tutii, Io sono Joanice Oliveira
 
 ### Sobre mim
-💻 Graduanda em Ciência da Computação que compartilha tudo que aprende no @cod.agirl e está vire e mexe aprendendo a manipular banco de dados relacionais, melhorando sua vida com Java e aprendendo Angular e Spring Boot.
+💻 Graduanda em Ciência da Computação que compartilha tudo que aprende no @cod.agirl e diariamente estudando para conseguir sua tão sonhada vaga de Developer Java Jr e compartilha tudo que aprende no @cod.agirl.
+
+### O que ando estudando:
+
+:one: italino
+
+:two: angular
+
+:three: java intermediário
+
+:four: spring boot
+
+:five: java web
+
+:six: banco de dados relacionais
 
 
  <div>
