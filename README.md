@@ -46,4 +46,4 @@ Sou aluna de Ciência da Computação há dois anos, porém só me senti de verd
 - Enjoy it!! o/
 
 
- ![Snake animation](https://github.com/SrtaPoe/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/SrtaPoe/SrtaPoe/blob/output/github-contribution-grid-snake.svg)
