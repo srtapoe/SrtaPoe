@@ -1,5 +1,9 @@
 ## Ciao a tutii, Io sono Joanice Oliveira
 
+### Sobre mim
+💻 Graduanda em Ciência da Computação que compartilha tudo que aprende no @cod.agirl e está vire e mexe aprendendo a manipular banco de dados relacionais, melhorando sua vida com Java e aprendendo Angular e Spring Boot.
+
+
  <div>
   <a href="https://github.com/SrtaPoe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srtapoe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,7 +26,12 @@
   <a href = "mailto: jhoaniceoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joanice-oliveira-3787b3127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
- 
 </div>
 
+ 
+ 
+ 
+ <div style="display: inline">
+  <a href="https://github.com/SrtaPoe">
+  <img src="https://github.com/SrtaPoe">
+</div>
