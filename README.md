@@ -44,3 +44,6 @@ Sou aluna de Ciência da Computação há dois anos, porém só me senti de verd
 - Thanks for visiting. 
  
 - Enjoy it!! o/
+
+
+ svg_out_path: dist/github-contribution-grid-snake.svg
