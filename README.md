@@ -1,7 +1,7 @@
-## Ciao a tutii, Io sono Joanice Oliveira
+## Ciao a tutii, Io sono Joanice Oliveira 👩‍💻
 
 ### Sobre mim
-💻 Graduanda em Ciência da Computação que compartilha tudo que aprende no @cod.agirl e diariamente estudando para conseguir sua tão sonhada vaga de Developer Java Jr e compartilha tudo que aprende no @cod.agirl.
+💻 Graduanda em Ciência da Computação que compartilha tudo que aprende no @cod.agirl e diariamente estudando tudo que tem a ver com backend. Apaixonada por livros, séries de terror e suspense e How I meet your mother.
 
 ### O que ando estudando:
 
@@ -16,6 +16,11 @@
 :five: java web
 
 :six: banco de dados relacionais
+
+:seven: testes em java
+
+[Imgur](https://i.imgur.com/U4tXOlq.gifv)
+
 
 
  <div>
