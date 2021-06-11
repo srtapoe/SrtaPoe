@@ -19,7 +19,7 @@
 
 :seven: testes em java
 
-[Imgur](https://i.imgur.com/U4tXOlq.gifv)
+![original](https://user-images.githubusercontent.com/40921734/121716632-a1a90780-cab6-11eb-8ef8-7e1e415c8071.gif)
 
 
 
