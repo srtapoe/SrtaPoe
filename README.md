@@ -30,9 +30,9 @@
 
 :one: italino
 
-:two: angular
+:two: ruby on rails
 
-:three: java intermediário
+:three: ruby intermediário
 
 :four: spring boot
 
@@ -40,7 +40,7 @@
 
 :six: banco de dados relacionais
 
-:seven: testes em java
+:seven: testes em java e ruby
 
 
  <div>
