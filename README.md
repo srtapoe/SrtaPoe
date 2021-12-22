@@ -28,7 +28,7 @@
 
 ### O que ando estudando:
 
-:one: francês e inglês
+:one: inglês e italiano
 
 :two: ruby on rails
 
