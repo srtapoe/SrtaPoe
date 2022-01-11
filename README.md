@@ -41,7 +41,7 @@ Atualmente estou trocando Ciência da Computação por Sistemas da Informação 
 
 :four: spring boot
 
-:five: java collections, lambas e poo
+:five: java collections, lambdas e poo
 
 :six: banco de dados relacionais
 
