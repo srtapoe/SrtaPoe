@@ -13,8 +13,6 @@ Adoro debater sobre Física aplicada a existência dos multiversos, política, f
 
 Atualmente estou trocando Ciência da Computação por Sistemas da Informação por questão de pós-graduação(mestrado e doutorado) após o fim do curso. Também ando estudando (sou backend):
 
-
-</div>
 ### O que ando estudando:
 
 :one: inglês através do trabalho incrível do Lucas no Street Way
@@ -47,8 +45,7 @@ Atualmente estou trocando Ciência da Computação por Sistemas da Informação 
   <a href = "mailto: jhoaniceoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joanice-oliveira-3787b3127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
-
+ </div>
 
 
  <div>
