@@ -6,8 +6,18 @@
   <a href="https://www.instagram.com/cod.agirl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: jhoaniceoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joanice-oliveira-3787b3127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
  </div>
+ 
+ ### Tecnologias que trabalho 🤖
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Rails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Spring Boot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+   
+</div>
 
 ### Sobre mim
 Sempre pensei que fosse parecida com o Tony Stark, mas assistindo as animações dos Vingadores e lendo as HQ’s da Marvel notei que pareço muito mais com Steve Rogers, vulgo Capitão América. Ele é centrado, disciplinado, nunca desiste dos seus objetivos mesmo tendo N dificuldades no caminho, se adapta bem aos ambientes distintos que é colocado e nunca abandona seus princípios. É, América falei tanto mal de você que acabei percebendo que somos muito parecidos 😆.
@@ -35,17 +45,6 @@ Atualmente estou trocando Ciência da Computação por Sistemas da Informação 
 :six: banco de dados relacionais
 
 :seven: testes em java e ruby
-
-### Tecnologias que trabalho 🤖
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Rails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-   
-</div>
 
 
  <div>
