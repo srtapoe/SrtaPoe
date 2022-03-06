@@ -3,7 +3,7 @@
 ![giphy](https://user-images.githubusercontent.com/40921734/156925587-6cfb3655-3276-444d-9c0c-9c5cd8a15fb0.gif)
 
 <p align="left"> 
-  Hello, sou a Joanice Oliveira <strong>Backend Jr</strong>.<br>
+  Hello, sou a Joanice Oliveira | <strong>Backend Jr</strong>.<br>
   Graduanda em Ciência da Computação/ UFMA e estudando bastante Java e Spring e dedicando dias ao inglês e italiano.
 </p>
 
