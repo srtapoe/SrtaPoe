@@ -3,8 +3,8 @@
 ![giphy](https://user-images.githubusercontent.com/40921734/156925587-6cfb3655-3276-444d-9c0c-9c5cd8a15fb0.gif)
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Ciao, sou a Joanice Oliveira <strong>Backend Jr.</strong>.<br>
+  Graduanda em Ciência da Computação/ UFMA e estudando bastante Java e Spring.
 </p>
 
 <p align="left">
@@ -26,6 +26,7 @@
   <a href="https://www.linkedin.com/in/joanice-oliveira-3787b3127/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
+  
   <a href="+5598991608749" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
