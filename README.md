@@ -1,6 +1,6 @@
 ## Ciao a tutti, io sono Joanice Oliveira 👩‍💻 
 
-![original](https://user-images.githubusercontent.com/40921734/121716632-a1a90780-cab6-11eb-8ef8-7e1e415c8071.gif)
+![giphy](https://user-images.githubusercontent.com/40921734/156925587-6cfb3655-3276-444d-9c0c-9c5cd8a15fb0.gif)
 
 <div> 
   <a href="https://www.instagram.com/cod.agirl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -20,8 +20,8 @@
 </div>
 
 
-![giphy](https://user-images.githubusercontent.com/40921734/156925587-6cfb3655-3276-444d-9c0c-9c5cd8a15fb0.gif)
- min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
@@ -29,15 +29,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>Java, Ruby, JavaScript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>Spring Boot, Spring Framework, Rails, MySQL, Notion, Trello, Jira.</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Quer falar comigo? Entre em contato por algum dos meios abaixo: ⤵️
 </p>
 
 <p align="left">
@@ -55,26 +55,12 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-
-
-
-
-
-
-
-
-
  <div>
   <a href="https://github.com/SrtaPoe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srtapoe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtapoe&layout=compact&langs_count=17&theme=dracula"/>
 </div>
 
-  
-  ##
- 
 
-
-  ![Snake animation](https://github.com/srtapoe/srtapoe/blob/output/github-contribution-grid-snake.svg)
  
  
