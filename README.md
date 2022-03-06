@@ -19,32 +19,49 @@
    
 </div>
 
-### Sobre mim
-Sempre pensei que fosse parecida com o Tony Stark, mas assistindo as animações dos Vingadores e lendo as HQ’s da Marvel notei que pareço muito mais com Steve Rogers, vulgo Capitão América. Ele é centrado, disciplinado, nunca desiste dos seus objetivos mesmo tendo N dificuldades no caminho, se adapta bem aos ambientes distintos que é colocado e nunca abandona seus princípios. É, América falei tanto mal de você que acabei percebendo que somos muito parecidos 😆.
 
-Em contraponto posso dizer que herdo a mesma visão de Hank Pym(primeiro Homem Formiga) que a Ciência e a Tecnologia são objetos de benefícios humano e não para arrogância bélica ou comercial( lamento, Homem-de-Ferro) e por isso procuro constantemente encontrar formas de trabalhar com tecnologia voltada ao bem estar social da Humanidade.
+![giphy](https://user-images.githubusercontent.com/40921734/156925587-6cfb3655-3276-444d-9c0c-9c5cd8a15fb0.gif)
+ min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Nessa caminhada no desenvolvimento de softwares, IA, Machine Larning e N outros subprodutos do avanço tecnológico venho compartilhando minha aprendizagem na área no meu perfil “técnico” no Instagram chamado @cod.agirl.
+<p align="left"> 
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
-Adoro debater sobre Física aplicada a existência dos multiversos, política, filosofia e sociologia. Vira e mexe estou criando teorias da conspiração com os inúmeros livros de suspense que leio(Mais livros, Harlan Coben) e escrevendo contos de terror baseados nos contos de Edgar Allan Poe e nos N filmes do gênero que assisto. Vocês também podem me ver defendendo ferozmente o roteiro de HIMYM e rindo sozinha com piadas sem graça.
+<p align="left">
+  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+</p>
 
-Atualmente estou trocando Ciência da Computação por Sistemas da Informação por questão de pós-graduação(mestrado e doutorado) após o fim do curso. Também ando estudando (sou backend):
+<p align="left">
+  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+</p>
 
-### O que ando estudando:
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-:one: inglês através do trabalho incrível do Lucas no Street Way
+<p align="left">
+  <a href="mailto: jhoaniceoliveira@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-:two: ruby on rails
+  <a href="https://www.linkedin.com/in/joanice-oliveira-3787b3127/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-:three: ruby intermediário
+  <a href="+5598991608749" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-:four: spring boot
 
-:five: java collections, lambdas e poo
+  <a href="https://www.instagram.com/cod.agirl/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
 
-:six: banco de dados relacionais
 
-:seven: testes em java e ruby
+
+
+
+
+
+
 
 
  <div>
