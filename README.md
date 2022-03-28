@@ -5,8 +5,7 @@
 
 <p align="left"> 
   Hello, sou a Joanice Oliveira | <strong>Backend Jr</strong>.<br>
-  Graduanda em Ciência da Computação/ UFMA e estudando bastante Java e Spring e dedicando dias ao inglês e italiano.
-</p>
+  Graduanda em Ciência da Computação/ UFMA e estudando bastante Java e Spring e dedicando dias ao inglês, italiano e alemão.
 
 <p align="left">
   🦄 Linguagens: <strong>Java, Ruby, JavaScript</strong>
