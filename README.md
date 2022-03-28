@@ -1,9 +1,6 @@
 ## Ciao a tutti 👩‍💻 
 
 ![7da4f8cf2776ee99b29f8c48de81e271](https://user-images.githubusercontent.com/40921734/157924952-f325cfca-b106-4916-977b-c7d02d6eb530.gif)
-!Joanice's GitHub stats](https://github-readme-stats.vercel.app/api?username=sratpoe&show_icons=true&theme=synthwave)
-
-
 
 <p align="left"> 
   Hello, sou a Joanice Oliveira | <strong>Backend Jr</strong>.<br>
@@ -34,5 +31,5 @@
 
 
 
-
+![Joanice's GitHub stats](https://github-readme-stats.vercel.app/api?username=sratpoe&show_icons=true&theme=synthwave)
  
