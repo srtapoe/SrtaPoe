@@ -31,5 +31,5 @@
 
 
 
-![Joanice's GitHub stats](https://github-readme-stats.vercel.app/api?username=sratpoe&show_icons=true&theme=synthwave)
+![Joanice's GitHub stats](https://github-readme-stats.vercel.app/api?username=srtapoe&show_icons=true&theme=synthwave)
  
