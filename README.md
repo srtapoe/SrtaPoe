@@ -2,13 +2,6 @@
 
 ![7da4f8cf2776ee99b29f8c48de81e271](https://user-images.githubusercontent.com/40921734/157924952-f325cfca-b106-4916-977b-c7d02d6eb530.gif)
 
-
-<div align="center">
-  <a href="https://github.com/srtapoe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srtapoe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtapoe&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <p align="left"> 
   Hello, sou a Joanice Oliveira | <strong>Backend Jr</strong>.<br>
   Graduanda em Ciência da Computação/ UFMA e estudando bastante Java e Spring e dedicando dias ao inglês, italiano e alemão.
@@ -37,10 +30,6 @@
 </p>  
 
 
-<div align="center">
-  <a href="https://github.com/srtapoe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srtapoe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtapoe&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
  
