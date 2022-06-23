@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Spring Boot, Spring Framework, Rails, MySQL, Notion, Trello, Jira.</strong>
+  💼 Ferramentas: <strong>Spring Boot, Rails, MySQL, Notion, MySQL</strong>
 </p>
 
 <p align="left">
