@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Spring Boot, Rails, MySQL, Notion, MySQL</strong>
+  💼 Ferramentas: <strong>Spring Boot, Docker, Notion, MySQL</strong>
 </p>
 
 <p align="left">
