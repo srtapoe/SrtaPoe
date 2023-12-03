@@ -1,7 +1,7 @@
 ## Ciao a tutti 👩‍💻 
 
 # 💫 About Me:
-👩🏻‍💻I am a backend developer<br>🕵🏻‍♀️I am a student of Software Analysis and Development<br>💻Working with Java, Spring Boot, MySQL, SQL Server and I'm studying Javascript and HTML and CSS<br>🪓Passionate about suspense, science fiction and fantasy<br>📱I share on Instagram what I learn in the IT area with beginners and aspirants
+👩🏻‍💻I am a backend developer<br>🕵🏻‍♀️I am a student of Software Analysis and Development<br>💻Working with Java, Spring Boot, MySQL, SQL Server and I'm studying Javascript and HTML and CSS and Kotlin<br>🪓Passionate about suspense, science fiction and fantasy<br>📱I share on Instagram what I learn in the IT area with beginners and aspirants
 
 
 ## 🌐 Socials:
