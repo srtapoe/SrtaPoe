@@ -5,7 +5,7 @@
 ![penny](https://github.com/srtapoe/SrtaPoe/assets/40921734/8ad67f64-58da-4966-8d88-a30c143ebaad)
 
 
-👩🏻‍💻I am a backend developer<br>🕵🏻‍♀️I am a student of Software Analysis and Development<br>💻Working with Java, Spring Boot, MySQL, SQL Server and I'm studying Javascript, Ruby, Ruby and Rails and a little about Kotlin<br>🪓Passionate about horror, science fiction and fantasy<br>📱I share on Instagram what I learn in the IT area with beginners and aspirants
+👩🏻‍💻I am a backend developer<br>🕵🏻‍♀️I am a student of Software Analysis and Development<br>💻Working with Java, Spring Boot, MySQL, SQL Server and I'm studying Javascript and Kotlin<br>🪓Passionate about horror, science fiction and fantasy<br>📱I share on Instagram what I learn in the IT area with beginners and aspirants
 
 
 ## 🌐 Socials:
